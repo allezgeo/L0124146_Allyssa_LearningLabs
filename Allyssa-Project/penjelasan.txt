@@ -1,4 +1,0 @@
-- Tema yang diambil adalah Film.
-- Website yang dibuat bertujuan untuk memberi informasi kepada pengguna mengenai film khusunya film bertema zombie. 
-- Pengguna dapat mengetahui film zombie dari Hollywood dan Korea.
-- Pengguna dapat memberi feedback.
