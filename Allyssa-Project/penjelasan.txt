@@ -1,0 +1,11 @@
+L0124146
+Allyssa Hatitya Pratiwi
+Learning Labs
+
+Project Akhir Learning Labs 2024
+
+- Tema yang diambil adalah Film.
+- Nama website adalah FilmLova.
+- Website yang dibuat dengan tujuan untuk memberi informasi kepada pengguna mengenai film, khususnya film bertema zombie. 
+- Pengguna dapat mengetahui film zombie dari Hollywood dan Korea.
+- Pengguna dapat memberikan feedback.
